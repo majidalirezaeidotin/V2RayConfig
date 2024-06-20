@@ -5,3 +5,14 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380?obfs=salama
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 vless://1cbaef96-0328-4a4e-993e-a8ce0a258d1b@de.pixvpn.app:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://1cbaef96-0328-4a4e-993e-a8ce0a258d1b@usa.pixvpn.app:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%F0%9F%87%BA%F0%9F%87%B8%20USA
+
+vless://68a79909-65f2-4341-942e-ad75a6bd33f8@zula.ir:443?security=tls&sni=bam.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/a17fbb71&host=bam.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF1+-+Fragment+ON
+vless://68a79909-65f2-4341-942e-ad75a6bd33f8@[2a12:5940:4961::2]:443?security=tls&sni=bam.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/a17fbb71&host=bam.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF1+-++ipv6
+vless://7a18d85c-ecfa-4e83-9f9c-60df37e68970@zula.ir:443?security=tls&sni=kahnooj.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/d8480275&host=kahnooj.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF2+-+Fragment+ON
+vless://7a18d85c-ecfa-4e83-9f9c-60df37e68970@[2a12:5940:47dc::2]:443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/d8480275&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF2+-+ipv6
+vless://49699004-a1ba-4621-9744-3d41e98040a9@zula.ir:443?security=tls&sni=cfcdn.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/tf3gqdlcz4d9ATYNtIiFQxNPNVWGh&host=cfcdn.kermankala.shop&encryption=none#%D8%A2%D9%84%D9%85%D8%A7%D9%86+-+Fragment+ON
+vless://49699004-a1ba-4621-9744-3d41e98040a9@[2a0c:b840:1:13f:1111:1111:1111:1111]:443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/tf3gqdlcz4d9ATYNtIiFQxNPNVWGh&encryption=none#%D8%A2%D9%84%D9%85%D8%A7%D9%86+-+ipv6
+vless://bef857bf-e595-4059-9fe3-86e5f12b8be3@zula.ir:8443?security=tls&sni=shahrbabak.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/cac12fc9&host=shahrbabak.kermankala.shop&encryption=none#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3+-+Fragment+ON
+vless://bef857bf-e595-4059-9fe3-86e5f12b8be3@[2a0c:b840:2:22d::a329]:8443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/cac12fc9&encryption=none#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3+-+ipv6
+vless://991b623c-bd1f-47f9-970b-b4f418abff36@zula.ir:443?security=tls&sni=family.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/3da0ca8f&host=family.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF3+-+Fragment+ON
+vless://991b623c-bd1f-47f9-970b-b4f418abff36@[2a12:5940:bd24::2]:443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/3da0ca8f&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF3+-+ipv6
