@@ -5,7 +5,6 @@ hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380?obfs=salama
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@185.164.163.21:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
 vless://1cbaef96-0328-4a4e-993e-a8ce0a258d1b@de.pixvpn.app:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://1cbaef96-0328-4a4e-993e-a8ce0a258d1b@usa.pixvpn.app:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%F0%9F%87%BA%F0%9F%87%B8%20USA
-
 vless://68a79909-65f2-4341-942e-ad75a6bd33f8@zula.ir:443?security=tls&sni=bam.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/a17fbb71&host=bam.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF1+-+Fragment+ON
 vless://68a79909-65f2-4341-942e-ad75a6bd33f8@[2a12:5940:4961::2]:443?security=tls&sni=bam.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/a17fbb71&host=bam.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF1+-++ipv6
 vless://7a18d85c-ecfa-4e83-9f9c-60df37e68970@zula.ir:443?security=tls&sni=kahnooj.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/d8480275&host=kahnooj.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF2+-+Fragment+ON
