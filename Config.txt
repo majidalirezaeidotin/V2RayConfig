@@ -15,3 +15,4 @@ vless://bef857bf-e595-4059-9fe3-86e5f12b8be3@zula.ir:8443?security=tls&sni=shahr
 vless://bef857bf-e595-4059-9fe3-86e5f12b8be3@[2a0c:b840:2:22d::a329]:8443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/cac12fc9&encryption=none#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3+-+ipv6
 vless://991b623c-bd1f-47f9-970b-b4f418abff36@zula.ir:443?security=tls&sni=family.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/3da0ca8f&host=family.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF3+-+Fragment+ON
 vless://991b623c-bd1f-47f9-970b-b4f418abff36@[2a12:5940:bd24::2]:443?security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/3da0ca8f&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF3+-+ipv6
+
