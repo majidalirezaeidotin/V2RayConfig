@@ -1,7 +1,5 @@
 hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@46.30.45.211:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA1
-vless://ece27348-cb7b-4e4a-b779-a1d8aaa46a2f@188.114.97.3:2053?security=tls&sni=for-us-98.o3co.ir&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Technoi&encryption=none#5000+%DA%AF%DB%8C%DA%AF
 vless://991b623c-bd1f-47f9-970b-b4f418abff36@zula.ir:443?security=tls&sni=family.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/3da0ca8f&host=family.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF3+-+Fragment+ON
-vless://ece27348-cb7b-4e4a-b779-a1d8aaa46a2f@188.114.97.3:2053?security=tls&sni=for-us-98.o3co.ir&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Technoi&encryption=none#5000+%DA%AF%DB%8C%DA%AF
 vless://49699004-a1ba-4621-9744-3d41e98040a9@zula.ir:443?security=tls&sni=cfcdn.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/tf3gqdlcz4d9ATYNtIiFQxNPNVWGh&host=cfcdn.kermankala.shop&encryption=none#%D8%A2%D9%84%D9%85%D8%A7%D9%86+-+Fragment+ON
 vless://7a18d85c-ecfa-4e83-9f9c-60df37e68970@zula.ir:443?security=tls&sni=kahnooj.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/d8480275&host=kahnooj.kermankala.shop&encryption=none#%D8%B3%D9%88%D8%A6%D8%AF2+-+Fragment+ON
 vless://bef857bf-e595-4059-9fe3-86e5f12b8be3@zula.ir:8443?security=tls&sni=shahrbabak.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/cac12fc9&host=shahrbabak.kermankala.shop&encryption=none#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3+-+Fragment+ON
