@@ -8,6 +8,7 @@ vless://991b623c-bd1f-47f9-970b-b4f418abff36@zula.ir:443?security=tls&sni=family
 vless://bef857bf-e595-4059-9fe3-86e5f12b8be3@zula.ir:8443?security=tls&sni=shahrbabak.kermankala.shop&alpn=http/1.1&fp=chrome&type=ws&path=/cac12fc9&host=shahrbabak.kermankala.shop&encryption=none#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3+-+Fragment+ON
 vmess://eyJhZGQiOiJjZG4uaGlvbmV0Lm9yZyIsImFpZCI6IjAiLCJob3N0IjoiZnVuZ2FtZXNmb3JmcmVlLmFueW1hdGguaXIiLCJpZCI6IjY2NTBmZTFiLWIzMzMtNDRiMS04MzBhLWM1NTcyZTVmZDA5ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9PdXJUZWxlZ3JhbUBDaGFuZ2VfSVAxIiwicG9ydCI6IjgwIiwicHMiOiJAY2hhbmdlX2lwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJob3N0IjoiY29ubmVjdC5zbGVlcGluZ2plbXBhLmlyIiwiaWQiOiI2ZmY5YWZiNC1lOGU2LTRiODItYWE0Yy03ZTE0Zjk3MmUzOWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMTAwMDEiLCJwb3J0IjoiNDQzIiwicHMiOiJob2xhIiwic2N5IjoiYXV0byIsInNuaSI6ImNvbm5lY3Quc2xlZXBpbmdqZW1wYS5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://3b43d109-7da0-448f-aca4-d4f3764bc24c@188.114.97.3:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Technoi&sni=technoi_channel_free.o3co.ir#%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+8000+%DA%AF%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA
 warp://188.114.98.120:2408/?ifp=5-10#Tel | @ipsychoweb
 warp://188.114.98.130:2408/?ifp=5-10#Tel | @ipsychoweb
 warp://162.159.192.60:854/?ifp=5-10#Tel | @ipsychoweb
