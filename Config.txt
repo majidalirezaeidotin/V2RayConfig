@@ -1,9 +1,4 @@
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@144.48.81.171:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA2
-hy2://irvless:4d42728f-e25b-4fa9-ea20-0d12eca2e3f5@181.215.32.174:4380?obfs=salamander&obfs-password=irvless&sni=vmln53bkj6.bayworld.net#IRVLESS-FREE-HYSTERIA3
-warp://188.114.98.120:2408/?ifp=5-10#Tel | @ipsychoweb
-warp://188.114.98.130:2408/?ifp=5-10#Tel | @ipsychoweb
-warp://162.159.192.60:854/?ifp=5-10#Tel | @ipsychoweb
-warp://162.159.192.42:854/?ifp=5-10#Tel | @ipsychoweb
-warp://162.159.192.175:7281/?ifp=5-10#Tel | @ipsychoweb
-warp://188.114.96.150:854/?ifp=5-10#Tel | @ipsychoweb
-
+hy2://tYVaOArhcupVmnYggzlDZOuxVceGOSUgpjNhrVkFXJpxmJWFoodlWDwYuFSLgbcoREqRoxEajKiNzRHLIUxWlMtmNvalzYHNKyHS@duckduckv.online:443?obfs=salamander&obfs-password=GaQVRAuv3XIrFqKLqgwmIzTZA2UHX9cHvlicw1aScd9s8qEiRZlAq3UEQCGgkKJXBnIP3fCWHDIMi6CugM5x6ztRPYoqNlSWKVeZ&sni=duckduckv.online#@CHANGE_IP1
+vless://36674613-c58c-4e94-fd80-1fce492e8f0f@cdn.hionet.org:80?security=&type=ws&path=/JOIN-@CHANGE_IP1&host=change-ip1-kNdKcxcmngSccOQ.anymath.ir&encryption=none#@CHANGE_IP1
+vless://36674613-c58c-4e94-fd80-1fce492e8f0f@cdn.hionet.org:80?security=&type=ws&path=/JOIN-@CHANGE_IP1&host=change-ip1-OvptArHrMPWXbiF.diamondgalery.ir&encryption=none#@CHANGE_IP1
+hy2://tYVaOArhcupVmnYggzlDZOuxVceGOSUgpjNhrVkFXJpxmJWFoodlWDwYuFSLgbcoREqRoxEajKiNzRHLIUxWlMtmNvalzYHNKyHS@duckduckv.online:443?obfs=salamander&obfs-password=GaQVRAuv3XIrFqKLqgwmIzTZA2UHX9cHvlicw1aScd9s8qEiRZlAq3UEQCGgkKJXBnIP3fCWHDIMi6CugM5x6ztRPYoqNlSWKVeZ&sni=duckduckv.online#@CHANGE_IP1
