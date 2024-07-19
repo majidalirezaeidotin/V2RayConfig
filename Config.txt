@@ -1,12 +1,2 @@
 vless://1c699aec-4ae5-4ac6-8d47-277e5ed1690e@suevpnx.johnwick.cfd:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=suevpnx.johnwick.cfd&type=ws&sni=suevpnx.johnwick.cfd#Channel%F0%9F%91%89%40Suevpnx
-vless://81ea895f-0c0d-4018-b712-75dd08a29b26@tr1.asc-sam.ir:80?path=%2Fvless&security=none&encryption=none&host=tr1.asc-sam.ir&type=ws#%F0%9F%87%B9%F0%9F%87%B7-%40NoForcedHeaven
-trojan://U0Yu8herAB@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--32amkdqjq35
-trojan://ewv7uNRtji@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--nmbb5mtb4
-trojan://2rKkSmjgP2@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--ywu3oi3
-trojan://suvfQKnTWi@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--q8ltg5v2
-trojan://ubCcKfEYDC@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--q1tmjn1
-trojan://bI9nhyCc8S@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--lozpgqqc410
-trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--5lgxyhv9
-trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--hgp5ig158
-trojan://xNbIgqGHQk@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--4tmcer757
-trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&fp=&alpn=h2%2Chttp%2F1.1#Telegram%20%3D%3D%20%40xstack--amkg4jyzll6
+
