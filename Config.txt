@@ -1,5 +1,4 @@
 vless://1c699aec-4ae5-4ac6-8d47-277e5ed1690e@suevpnx.johnwick.cfd:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=suevpnx.johnwick.cfd&type=ws&sni=suevpnx.johnwick.cfd#Channel%F0%9F%91%89%40Suevpnx
-
 vless://955a2a33-937c-4382-f29f-507771466d90@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--qe2738imo81
 vless://5a5206bf-bb33-41d4-8cb1-d403f52d98e7@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--naihaak9z22
 vless://106ee8de-79ea-49c0-a940-6d6012bcc03b@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--6oo60f03
