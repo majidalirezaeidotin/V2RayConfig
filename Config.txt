@@ -1,4 +1,3 @@
-vless://1c699aec-4ae5-4ac6-8d47-277e5ed1690e@suevpnx.johnwick.cfd:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=suevpnx.johnwick.cfd&type=ws&sni=suevpnx.johnwick.cfd#Channel%F0%9F%91%89%40Suevpnx
 vless://955a2a33-937c-4382-f29f-507771466d90@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--qe2738imo81
 vless://5a5206bf-bb33-41d4-8cb1-d403f52d98e7@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--naihaak9z22
 vless://106ee8de-79ea-49c0-a940-6d6012bcc03b@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--6oo60f03
@@ -10,4 +9,3 @@ vless://be3752fd-1746-4845-9db8-80caa76d8409@x1germany.thanks-devefun-team-omg-i
 vless://536977eb-21e7-4b4e-a438-a1617e515ed5@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--gl3cunj159
 vless://f29538b0-151a-46ce-a4b0-9550d3bc7064@x1germany.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?security=&type=ws&path=/&encryption=none#Telegram%20==%20@devefun--aubk1zbo10
 vless://35190a24-2762-499d-f827-eaefc0c13874@www.speedtest.net:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.arvancloud.ir.alimirzaei.icu.&type=httpupgrade#all+net
-trojan://ImmWF6vjOb75qkrNcFOwrg@zula.ir:80?security=none&type=ws&headerType=&path=%2Fshop&host=shop.fa-behsazan.ir#%F0%9F%87%A9%F0%9F%87%AA%28TAMtunnel-unlimit%29%20%7C%7C%20%E2%88%9E%20%7C%7C%20%E2%88%9E 
