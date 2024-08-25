@@ -1,1 +1,2 @@
-vless://8870c9d1-d0c4-4f96-8296-c73fe30619c1@cdn10.kingvip.top:2096?type=tcp&security=none&headerType=http&path=/&host=speedtest.net#Amsterdam-42247
+vless://241dcd38-6bd8-4711-96b7-250948f16e98@zula.ir:443?security=tls&sni=nlmirrors.hamedandehsan.lat&alpn=h2&fp=chrome&type=grpc&serviceName=AQMAcELaxwe09KpwyhGtCHbC8f&encryption=none#@CybearVPN+%F0%9F%87%B3%F0%9F%87%B1
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%20%F0%9F%87%B3%F0%9F%87%B1%20kitkat%C2%B2%E2%81%B6
