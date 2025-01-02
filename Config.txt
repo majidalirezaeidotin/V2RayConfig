@@ -58,3 +58,5 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8009#WiFi-@V2ray_Alpha-5
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.87:7307#WiFI--@V2ray_Alpha-05
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#WiFI--@V2ray_Alpha-06
 vless://5d2e9d3b-adfd-4056-935b-e9c86acfaec1@45.67.32.147:37665?security=reality&sni=psv4.vkuseraudio.net&fp=random&pbk=fcjBIZcvVsr1Gy-iZbIko-0Ey5icPtmXIxY3sd4UEFw&sid=9168&type=tcp&flow=xtls-rprx-vision&encryption=none#ir--@V2ray_Alpha--14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdXh5TmV0Qm90@apple.slumbo.com:443#%D9%BE%D8%B1%D8%B3%D9%88%D8%B1%D8%B9%D8%A7%D8%AA
+hy2://z0CDaX68na@147.45.154.150:443?obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#@Change_IP1-HYS
