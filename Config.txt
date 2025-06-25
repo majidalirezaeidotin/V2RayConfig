@@ -47,5 +47,5 @@ vless://1734035c-6dcc-411a-91e5-0d7786e9093e@local-only.hardwarenew.ir:8081?encr
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#%F0%9F%86%94soskeynet%20%F0%9F%94%93%20VL-TCP-N%2FA%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20down
 vless://684f3c00-54a5-486e-a638-159b254f52fe@speedtest.net:80?encryption=none&security=none&type=ws&host=befreewithus.org&path=%2F#%F0%9F%86%94crypto_trad26%20%F0%9F%94%93%20VL-WS-N%2FA%20%F0%9F%87%BA%F0%9F%87%B8%20US%209ms
 vless://c8210916-ef29-48c0-a8e7-3b86e3c8f068@speedtest.net:80?encryption=none&security=none&type=xhttp&host=mmad-fernando.global.ssl.fastly.net&path=%2F&mode=auto#%F0%9F%86%94soskeynet%20%F0%9F%94%93%20VL-XHTTP-N%2FA%20%F0%9F%87%BA%F0%9F%87%B8%20US%209ms
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBWTS1UQ1AtTk9ORSBcdUQ4M0NcdURERUVcdUQ4M0NcdURERjcgSVItODUuMTk4LjIzLjYzOjUyMjYyIiwNCiAgImFkZCI6ICI4NS4xOTguMjMuNjMiLA0KICAicG9ydCI6ICI1MjI2MiIsDQogICJpZCI6ICJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
