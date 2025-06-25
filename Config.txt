@@ -8,3 +8,5 @@ vless://4e0b9bb7-1df7-40c0-af4a-fccb0ef17249@151.101.0.155:80?encryption=none&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#%40meli_proxyy
 vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@tfir.tehranify.shop:2344?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%40meli_proxyy
 vless://2e2c7764-8f74-c142-b63b-8c0b93154d0d@dc1.zeroboostspeed.org:1231?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#%40meli_proxyy
+vless://e766c326-69fc-4f8e-b62e-0b8308999d52@91.99.156.174:58382?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=Cnofk5A5RVK2iDxlBkZY72er8JY-VdRjya8920MvsFg&sid=cfdee2f6c5a3a6&spx=%2F&type=tcp&headerType=none#%F0%9F%86%94ar14n24b%20%F0%9F%94%92%20VL-TCP-%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20146ms
+
