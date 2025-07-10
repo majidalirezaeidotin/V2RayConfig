@@ -120,4 +120,3 @@ vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?encryption=none&se
 vless://829619da-d88e-4c12-acd5-4172f8145d22@62.60.216.61:8443?encryption=none&security=reality&sni=www.cdnjs.cloudflare.com&fp=chrome&pbk=Itg7rBe40jt_FLzZ7gmbuApmnkDDQDxa2E1gZRxLfgk&sid=947ba02be8959504&type=tcp&headerType=none#q_075
 hysteria2://user10.thisismeSUperkl19201@shade.zone1.center:443?obfs=salamander&obfs-password=mkv_SEfr-salamdash&insecure=0#%40v2rayng_fars%20%20Telegram
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=%2F#GB_speednode_0022
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?encryption=none&security=none&type=grpc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
