@@ -1,1 +1,2 @@
 vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@94.183.153.83:55013?encryption=none&security=reality&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385&type=tcp&headerType=none#178.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://b01631fa-502b-497f-b8ed-2fda669667ad@94.183.153.84:55014?encryption=none&security=reality&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97_053119105%20t.me%2Frjsxrd
